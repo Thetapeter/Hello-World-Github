@@ -1,5 +1,3 @@
 # Hello-World-Github
-
-Hello, I'm Peter Siu!
-
-My student number is 1155193684.
+This is a hello world project for usage of Github.
+I added this line in the "features" branch.
